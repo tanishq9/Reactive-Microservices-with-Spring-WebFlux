@@ -1,1 +1,5 @@
-# Reactive-Microservices-with-Spring-WebFlux
+- Usage of Mono and Flux is demonstrated in the reactive-stream-intro repository.
+- Usage of Spring WebFlux Client (including testing) is demonstrated in the spring-webflux-intro repository.
+- Usage of R2DBC is demonstrated in the user-service repository.
+- Usage of Reactve MongoDB is demonstrated in the product-service repository.
+- Usage of Spring JPA (uses blocking driver) and interation with reactive microservices is demonstrated in order-service repository.
